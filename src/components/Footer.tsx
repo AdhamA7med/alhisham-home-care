@@ -92,10 +92,8 @@ const Footer = () => {
         {/* Bottom Section */}
         <div className="border-t border-gray-600 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
-            <div className="text-gray-400 text-center md:text-right">
-              © {currentYear} الهشام لخدمات التمريض. جميع الحقوق محفوظة.
-            </div>
-            
+
+
             <div className="text-gray-400 text-center md:text-left">
               تم تطوير الموقع بواسطة{' '}
               <button 
@@ -105,6 +103,22 @@ const Footer = () => {
                 أدهم أحمد
               </button>
             </div>
+
+
+            
+            <div className="text-gray-400 text-center md:text-right">
+              © {currentYear} الهشام لخدمات التمريض. جميع الحقوق محفوظة.
+            </div>
+            
+{/*             <div className="text-gray-400 text-center md:text-left">
+              تم تطوير الموقع بواسطة{' '}
+              <button 
+                onClick={() => window.open('https://wa.me/201153903786', '_blank')}
+                className="text-primary hover:text-primary-light transition-colors duration-300 font-semibold"
+              >
+                أدهم أحمد
+              </button>
+            </div> */}
           </div>
         </div>
       </div>
