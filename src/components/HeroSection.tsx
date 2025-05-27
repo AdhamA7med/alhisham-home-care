@@ -28,7 +28,7 @@ const HeroSection = () => {
 
           {/* Main Heading */}
           <h1 className="text-5xl md:text-7xl font-bold text-medical-darkGray mb-6 animate-fade-in">
-            <span className="text-primary">الهشام</span>
+            <span className="text-primary">أغابي</span>
             <br />
             <span className="text-3xl md:text-5xl font-semibold">لخدمات التمريض</span>
           </h1>
