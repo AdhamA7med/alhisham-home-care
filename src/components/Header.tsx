@@ -49,7 +49,7 @@ const Header = () => {
             </div>
             <div className="text-right">
               <h1 className="text-lg lg:text-xl font-bold text-gray-800 leading-tight">
-                الهشام لخدمات التمريض
+                أغابي لخدمات التمريض
               </h1>
               <p className="text-xs lg:text-sm text-primary-dark font-medium">
                 رعاية صحية منزلية متميزة
