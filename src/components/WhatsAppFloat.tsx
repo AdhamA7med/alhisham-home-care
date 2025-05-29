@@ -1,7 +1,7 @@
 
 const WhatsAppFloat = () => {
   const openWhatsApp = () => {
-    window.open('https://wa.me/201158738644?text=مرحباً، أود الاستفسار عن خدمات التمريض المنزلي', '_blank');
+    window.open('https://wa.me/201021541689?text=مرحباً، أود الاستفسار عن خدمات التمريض المنزلي', '_blank');
   };
 
   return (
