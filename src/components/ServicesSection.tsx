@@ -117,7 +117,7 @@ const ServicesSection = () => {
               فريقنا من الأطباء والممرضين المؤهلين جاهز لتقديم أفضل رعاية صحية لكم
             </p>
             <button 
-              onClick={() => window.open('https://wa.me/201158738644', '_blank')}
+              onClick={() => window.open('https://wa.me/201021541689', '_blank')}
               className="bg-white text-primary hover:bg-gray-100 px-8 py-4 rounded-full font-bold text-lg shadow-lg hover:shadow-xl transition-all duration-300 transform hover:scale-105"
             >
               احجز موعدك الآن
