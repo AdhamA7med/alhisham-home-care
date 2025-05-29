@@ -49,7 +49,7 @@ const Header = () => {
             </div>
             <div className="text-right">
               <h1 className="text-lg lg:text-xl font-bold text-gray-800 leading-tight">
-                أغابي لخدمات التمريض
+                جولدن كير لخدمات التمريض
               </h1>
               <p className="text-xs lg:text-sm text-primary-dark font-medium">
                 رعاية صحية منزلية متميزة
@@ -110,7 +110,7 @@ const Header = () => {
             ))}
             <div className="px-4 pt-4">
               <button
-                onClick={() => window.open('https://wa.me/201158738644?text=مرحباً، أود الاستفسار عن خدمات التمريض المنزلي', '_blank')}
+                onClick={() => window.open('https://wa.me/201021541689?text=مرحباً، أود الاستفسار عن خدمات التمريض المنزلي', '_blank')}
                 className="w-full bg-gradient-to-r from-primary to-primary-dark text-white py-3 rounded-full font-medium transition-all duration-300 hover:scale-105"
               >
                 احجز الآن
