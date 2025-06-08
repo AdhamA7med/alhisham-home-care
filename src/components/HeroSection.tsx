@@ -28,7 +28,7 @@ const HeroSection = () => {
 
           {/* Main Heading */}
           <h1 className="text-5xl md:text-7xl font-bold text-medical-darkGray mb-6 animate-fade-in">
-            <span className="text-primary">جولدن كير</span>
+            <span className="text-primary">الهشام</span>
             <br />
             <span className="text-3xl md:text-5xl font-semibold">لخدمات التمريض</span>
           </h1>
@@ -50,7 +50,7 @@ const HeroSection = () => {
             </Button>
             <Button 
               variant="outline"
-              onClick={() => window.open('https://wa.me/201021541689', '_blank')}
+              onClick={() => window.open('https://wa.me/201158738644', '_blank')}
               className="border-2 border-primary text-primary hover:bg-primary hover:text-white px-8 py-4 text-lg rounded-full transition-all duration-300"
             >
               تواصل عبر واتساب
