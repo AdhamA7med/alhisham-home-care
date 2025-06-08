@@ -74,7 +74,7 @@ const ContactSection = () => {
                 </div>
                 <div>
                   <h4 className="font-bold text-lg text-medical-darkGray">رقم الهاتف</h4>
-                  <p className="text-primary font-semibold text-lg" dir="ltr">01021541689</p>
+                  <p className="text-primary font-semibold text-lg" dir="ltr">01158738644</p>
                   <p className="text-gray-600">متاح 24/7</p>
                 </div>
               </div>
@@ -87,9 +87,9 @@ const ContactSection = () => {
                 </div>
                 <div>
                   <h4 className="font-bold text-lg text-medical-darkGray">واتساب</h4>
-                  <p className="text-green-500 font-semibold text-lg" dir="ltr">01021541689</p>
+                  <p className="text-green-500 font-semibold text-lg" dir="ltr">01158738644</p>
                   <button 
-                    onClick={() => window.open('https://wa.me/201021541689', '_blank')}
+                    onClick={() => window.open('https://wa.me/201158738644', '_blank')}
                     className="text-green-500 hover:text-green-600 font-semibold"
                   >
                     ابدأ المحادثة
