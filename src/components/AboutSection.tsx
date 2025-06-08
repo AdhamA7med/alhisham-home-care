@@ -67,7 +67,7 @@ const AboutSection = () => {
           {/* Content */}
           <div className="animate-fade-in">
             <h3 className="text-2xl md:text-3xl font-bold text-medical-darkGray mb-6">
-              نحن في جولدن كير لخدمات التمريض
+              نحن في الهشام لخدمات التمريض
             </h3>
             <p className="text-lg text-gray-700 leading-relaxed mb-6">
               نقدم رعاية صحية منزلية عالية الجودة على يد طاقم طبي مؤهل، مع التزام تام براحة وسلامة المرضى. 
